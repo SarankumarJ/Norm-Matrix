@@ -14,8 +14,8 @@ To write a program to find the 2-norm of the matrix and display the result in tw
 ## Program:
 ~~~
 Program to find 2-norm of a matrix.
-Developed by: yourname
-RegisterNumber: 
+Developed by: Sarankumar J
+RegisterNumber: 21500780
 
 import numpy as np
 
